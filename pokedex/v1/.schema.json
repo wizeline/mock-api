@@ -1,0 +1,12 @@
+{
+  "pokemons": ["`pokemon`"],
+  "pokemon": {
+    "weight": "integer",
+    "id": "string",
+    "types": ["string"],
+    "baseExperience": "integer",
+    "image": "string",
+    "name": "string",
+    "abilities": ["string"]
+  }
+}
