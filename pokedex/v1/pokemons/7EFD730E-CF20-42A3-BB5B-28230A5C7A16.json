@@ -1,0 +1,15 @@
+{
+  "weight" : 65,
+  "id" : "7EFD730E-CF20-42A3-BB5B-28230A5C7A16",
+  "types" : [
+    "normal"
+  ],
+  "baseExperience" : 65,
+  "image" : "/assets/p.eevee.png",
+  "name" : "eevee",
+  "abilities" : [
+    "Run-Away",
+    "Adaptability",
+    "Anticipation"
+  ]
+}

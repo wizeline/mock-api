@@ -1,0 +1,15 @@
+{
+  "weight" : 1550,
+  "id" : "9DCBC369-2017-4492-877C-9EA17874DA96",
+  "types" : [
+    "fire"
+  ],
+  "baseExperience" : 194,
+  "image" : "/assets/p.arcanine.png",
+  "name" : "arcanine",
+  "abilities" : [
+    "Intimidate",
+    "Flash-Fire",
+    "Justified"
+  ]
+}

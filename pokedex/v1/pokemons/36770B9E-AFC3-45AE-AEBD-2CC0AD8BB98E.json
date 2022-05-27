@@ -1,0 +1,15 @@
+{
+  "weight" : 190,
+  "id" : "36770B9E-AFC3-45AE-AEBD-2CC0AD8BB98E",
+  "types" : [
+    "fire"
+  ],
+  "baseExperience" : 70,
+  "image" : "/assets/p.growlithe.png",
+  "name" : "growlithe",
+  "abilities" : [
+    "Intimidate",
+    "Flash-Fire",
+    "Justified"
+  ]
+}

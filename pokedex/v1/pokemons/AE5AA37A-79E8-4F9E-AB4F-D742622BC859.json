@@ -1,0 +1,15 @@
+{
+  "weight" : 4600,
+  "id" : "AE5AA37A-79E8-4F9E-AB4F-D742622BC859",
+  "types" : [
+    "normal"
+  ],
+  "baseExperience" : 189,
+  "image" : "/assets/p.snorlax.png",
+  "name" : "snorlax",
+  "abilities" : [
+    "Immunity",
+    "Thick-Fat",
+    "Gluttony"
+  ]
+}

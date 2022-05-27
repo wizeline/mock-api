@@ -1,0 +1,15 @@
+{
+  "weight" : 150,
+  "id" : "23660092-30C1-4DCB-BEB7-A8F694E6D0A3",
+  "types" : [
+    "water"
+  ],
+  "baseExperience" : 64,
+  "image" : "/assets/p.goldeen.png",
+  "name" : "goldeen",
+  "abilities" : [
+    "Swift-Swim",
+    "Water-Veil",
+    "Lightning-Rod"
+  ]
+}

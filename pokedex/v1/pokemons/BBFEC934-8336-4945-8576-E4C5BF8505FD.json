@@ -1,0 +1,15 @@
+{
+  "weight" : 550,
+  "id" : "BBFEC934-8336-4945-8576-E4C5BF8505FD",
+  "types" : [
+    "bug"
+  ],
+  "baseExperience" : 175,
+  "image" : "/assets/p.pinsir.png",
+  "name" : "pinsir",
+  "abilities" : [
+    "Hyper-Cutter",
+    "Mold-Breaker",
+    "Moxie"
+  ]
+}

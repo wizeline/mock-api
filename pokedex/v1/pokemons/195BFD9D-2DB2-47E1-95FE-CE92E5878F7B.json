@@ -1,0 +1,15 @@
+{
+  "weight" : 10,
+  "id" : "195BFD9D-2DB2-47E1-95FE-CE92E5878F7B",
+  "types" : [
+    "poison"
+  ],
+  "baseExperience" : 68,
+  "image" : "/assets/p.koffing.png",
+  "name" : "koffing",
+  "abilities" : [
+    "Levitate",
+    "Neutralizing-Gas",
+    "Stench"
+  ]
+}

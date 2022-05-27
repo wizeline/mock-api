@@ -1,0 +1,16 @@
+{
+  "weight" : 125,
+  "id" : "D7A4815D-1244-47B9-ACAB-6C7F59F9E753",
+  "types" : [
+    "bug",
+    "poison"
+  ],
+  "baseExperience" : 158,
+  "image" : "/assets/p.venomoth.png",
+  "name" : "venomoth",
+  "abilities" : [
+    "Shield-Dust",
+    "Tinted-Lens",
+    "Wonder-Skin"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "weight" : 69,
+  "id" : "5321BAEF-4DA2-42C4-832C-C63B4F984E4B",
+  "types" : [
+    "poison"
+  ],
+  "baseExperience" : 58,
+  "image" : "/assets/p.ekans.png",
+  "name" : "ekans",
+  "abilities" : [
+    "Intimidate",
+    "Shed-Skin",
+    "Unnerve"
+  ]
+}

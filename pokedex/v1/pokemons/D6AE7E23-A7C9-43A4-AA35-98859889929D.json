@@ -1,0 +1,15 @@
+{
+  "weight" : 300,
+  "id" : "D6AE7E23-A7C9-43A4-AA35-98859889929D",
+  "types" : [
+    "fire"
+  ],
+  "baseExperience" : 82,
+  "image" : "/assets/p.ponyta.png",
+  "name" : "ponyta",
+  "abilities" : [
+    "Run-Away",
+    "Flash-Fire",
+    "Flame-Body"
+  ]
+}

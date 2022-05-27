@@ -1,0 +1,15 @@
+{
+  "weight" : 324,
+  "id" : "513D8885-5D68-466F-8317-58150FC638D4",
+  "types" : [
+    "psychic"
+  ],
+  "baseExperience" : 66,
+  "image" : "/assets/p.drowzee.png",
+  "name" : "drowzee",
+  "abilities" : [
+    "Insomnia",
+    "Forewarn",
+    "Inner-Focus"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "weight" : 64,
+  "id" : "62AD6EF1-0A44-4CBA-BED2-9D664754D903",
+  "types" : [
+    "grass",
+    "poison"
+  ],
+  "baseExperience" : 137,
+  "image" : "/assets/p.weepinbell.png",
+  "name" : "weepinbell",
+  "abilities" : [
+    "Chlorophyll",
+    "Gluttony"
+  ]
+}

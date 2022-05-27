@@ -1,0 +1,15 @@
+{
+  "weight" : 250,
+  "id" : "B458899D-E063-4C6C-A1DC-F90F76293477",
+  "types" : [
+    "water"
+  ],
+  "baseExperience" : 154,
+  "image" : "/assets/p.seadra.png",
+  "name" : "seadra",
+  "abilities" : [
+    "Poison-Point",
+    "Sniper",
+    "Damp"
+  ]
+}

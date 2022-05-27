@@ -1,0 +1,15 @@
+{
+  "weight" : 950,
+  "id" : "D613331F-CA98-4579-955A-C95B7D446AEE",
+  "types" : [
+    "fire"
+  ],
+  "baseExperience" : 175,
+  "image" : "/assets/p.rapidash.png",
+  "name" : "rapidash",
+  "abilities" : [
+    "Run-Away",
+    "Flash-Fire",
+    "Flame-Body"
+  ]
+}

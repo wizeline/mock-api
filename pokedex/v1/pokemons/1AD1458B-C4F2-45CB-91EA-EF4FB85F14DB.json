@@ -1,0 +1,14 @@
+{
+  "weight" : 120,
+  "id" : "1AD1458B-C4F2-45CB-91EA-EF4FB85F14DB",
+  "types" : [
+    "ground"
+  ],
+  "baseExperience" : 60,
+  "image" : "/assets/p.sandshrew.png",
+  "name" : "sandshrew",
+  "abilities" : [
+    "Sand-Veil",
+    "Sand-Rush"
+  ]
+}

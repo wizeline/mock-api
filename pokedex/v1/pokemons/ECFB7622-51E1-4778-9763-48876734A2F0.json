@@ -1,0 +1,16 @@
+{
+  "weight" : 1200,
+  "id" : "ECFB7622-51E1-4778-9763-48876734A2F0",
+  "types" : [
+    "ground",
+    "rock"
+  ],
+  "baseExperience" : 170,
+  "image" : "/assets/p.rhydon.png",
+  "name" : "rhydon",
+  "abilities" : [
+    "Lightning-Rod",
+    "Rock-Head",
+    "Reckless"
+  ]
+}

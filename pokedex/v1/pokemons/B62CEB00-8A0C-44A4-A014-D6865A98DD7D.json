@@ -1,0 +1,15 @@
+{
+  "weight" : 905,
+  "id" : "B62CEB00-8A0C-44A4-A014-D6865A98DD7D",
+  "types" : [
+    "fire",
+    "flying"
+  ],
+  "baseExperience" : 267,
+  "image" : "/assets/p.charizard.png",
+  "name" : "charizard",
+  "abilities" : [
+    "Blaze",
+    "Solar-Power"
+  ]
+}

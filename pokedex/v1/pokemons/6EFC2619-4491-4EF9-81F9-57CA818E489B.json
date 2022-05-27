@@ -1,0 +1,15 @@
+{
+  "weight" : 756,
+  "id" : "6EFC2619-4491-4EF9-81F9-57CA818E489B",
+  "types" : [
+    "psychic"
+  ],
+  "baseExperience" : 169,
+  "image" : "/assets/p.hypno.png",
+  "name" : "hypno",
+  "abilities" : [
+    "Insomnia",
+    "Forewarn",
+    "Inner-Focus"
+  ]
+}

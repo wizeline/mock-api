@@ -1,0 +1,14 @@
+{
+  "weight" : 90,
+  "id" : "7341EF2A-B3D2-4397-A306-A060F3CAF5DA",
+  "types" : [
+    "water"
+  ],
+  "baseExperience" : 63,
+  "image" : "/assets/p.squirtle.png",
+  "name" : "squirtle",
+  "abilities" : [
+    "Torrent",
+    "Rain-Dish"
+  ]
+}

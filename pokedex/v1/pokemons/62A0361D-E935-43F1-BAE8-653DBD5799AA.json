@@ -1,0 +1,15 @@
+{
+  "weight" : 186,
+  "id" : "62A0361D-E935-43F1-BAE8-653DBD5799AA",
+  "types" : [
+    "grass",
+    "poison"
+  ],
+  "baseExperience" : 245,
+  "image" : "/assets/p.vileplume.png",
+  "name" : "vileplume",
+  "abilities" : [
+    "Chlorophyll",
+    "Effect-Spore"
+  ]
+}

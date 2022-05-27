@@ -1,0 +1,16 @@
+{
+  "weight" : 600,
+  "id" : "0AB85375-AE44-4F19-AAB0-6E9D0E248030",
+  "types" : [
+    "poison",
+    "ground"
+  ],
+  "baseExperience" : 253,
+  "image" : "/assets/p.nidoqueen.png",
+  "name" : "nidoqueen",
+  "abilities" : [
+    "Poison-Point",
+    "Rivalry",
+    "Sheer-Force"
+  ]
+}

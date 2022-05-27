@@ -1,0 +1,15 @@
+{
+  "weight" : 600,
+  "id" : "9452490D-BA48-40BD-A459-8ACF1870C8BB",
+  "types" : [
+    "fire",
+    "flying"
+  ],
+  "baseExperience" : 290,
+  "image" : "/assets/p.moltres.png",
+  "name" : "moltres",
+  "abilities" : [
+    "Pressure",
+    "Flame-Body"
+  ]
+}

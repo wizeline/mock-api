@@ -1,0 +1,15 @@
+{
+  "weight" : 65,
+  "id" : "AE11C0B3-3D2A-4ABB-A4B9-D399F2D9462C",
+  "types" : [
+    "ground"
+  ],
+  "baseExperience" : 64,
+  "image" : "/assets/p.cubone.png",
+  "name" : "cubone",
+  "abilities" : [
+    "Rock-Head",
+    "Lightning-Rod",
+    "Battle-Armor"
+  ]
+}

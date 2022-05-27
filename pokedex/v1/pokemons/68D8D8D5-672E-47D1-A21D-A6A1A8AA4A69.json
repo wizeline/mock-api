@@ -1,0 +1,15 @@
+{
+  "weight" : 124,
+  "id" : "68D8D8D5-672E-47D1-A21D-A6A1A8AA4A69",
+  "types" : [
+    "water"
+  ],
+  "baseExperience" : 60,
+  "image" : "/assets/p.poliwag.png",
+  "name" : "poliwag",
+  "abilities" : [
+    "Water-Absorb",
+    "Damp",
+    "Swift-Swim"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "weight" : 25,
+  "id" : "FA35FAB6-5C3E-4845-9032-01C5CFF35FF8",
+  "types" : [
+    "grass",
+    "psychic"
+  ],
+  "baseExperience" : 65,
+  "image" : "/assets/p.exeggcute.png",
+  "name" : "exeggcute",
+  "abilities" : [
+    "Chlorophyll",
+    "Harvest"
+  ]
+}

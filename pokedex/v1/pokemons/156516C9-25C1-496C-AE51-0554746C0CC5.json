@@ -1,0 +1,14 @@
+{
+  "weight" : 40,
+  "id" : "156516C9-25C1-496C-AE51-0554746C0CC5",
+  "types" : [
+    "normal"
+  ],
+  "baseExperience" : 101,
+  "image" : "/assets/p.ditto.png",
+  "name" : "ditto",
+  "abilities" : [
+    "Limber",
+    "Imposter"
+  ]
+}

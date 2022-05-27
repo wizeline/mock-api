@@ -1,0 +1,15 @@
+{
+  "weight" : 800,
+  "id" : "EBAB5064-780F-4C57-AA29-34DB68E39DB2",
+  "types" : [
+    "normal"
+  ],
+  "baseExperience" : 172,
+  "image" : "/assets/p.kangaskhan.png",
+  "name" : "kangaskhan",
+  "abilities" : [
+    "Early-Bird",
+    "Scrappy",
+    "Inner-Focus"
+  ]
+}

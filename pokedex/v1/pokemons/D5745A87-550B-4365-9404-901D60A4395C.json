@@ -1,0 +1,15 @@
+{
+  "weight" : 8,
+  "id" : "D5745A87-550B-4365-9404-901D60A4395C",
+  "types" : [
+    "ground"
+  ],
+  "baseExperience" : 53,
+  "image" : "/assets/p.diglett.png",
+  "name" : "diglett",
+  "abilities" : [
+    "Sand-Veil",
+    "Arena-Trap",
+    "Sand-Force"
+  ]
+}

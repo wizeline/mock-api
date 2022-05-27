@@ -1,0 +1,16 @@
+{
+  "weight" : 1050,
+  "id" : "F47ADFE9-A255-4764-B63B-61B6BE4925CC",
+  "types" : [
+    "rock",
+    "ground"
+  ],
+  "baseExperience" : 137,
+  "image" : "/assets/p.graveler.png",
+  "name" : "graveler",
+  "abilities" : [
+    "Rock-Head",
+    "Sturdy",
+    "Sand-Veil"
+  ]
+}

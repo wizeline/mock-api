@@ -1,0 +1,16 @@
+{
+  "weight" : 350,
+  "id" : "EF878E32-A95A-456E-802F-263F89FB0D8E",
+  "types" : [
+    "rock",
+    "water"
+  ],
+  "baseExperience" : 173,
+  "image" : "/assets/p.omastar.png",
+  "name" : "omastar",
+  "abilities" : [
+    "Swift-Swim",
+    "Shell-Armor",
+    "Weak-Armor"
+  ]
+}

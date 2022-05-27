@@ -1,0 +1,14 @@
+{
+  "weight" : 300,
+  "id" : "D0B3C968-D8EC-4237-B27A-48D863187D1C",
+  "types" : [
+    "electric"
+  ],
+  "baseExperience" : 243,
+  "image" : "/assets/p.raichu.png",
+  "name" : "raichu",
+  "abilities" : [
+    "Static",
+    "Lightning-Rod"
+  ]
+}

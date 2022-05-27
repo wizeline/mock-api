@@ -1,0 +1,16 @@
+{
+  "weight" : 300,
+  "id" : "3765BC9F-659A-44CA-AFB3-23CD18B4EF92",
+  "types" : [
+    "normal",
+    "flying"
+  ],
+  "baseExperience" : 122,
+  "image" : "/assets/p.pidgeotto.png",
+  "name" : "pidgeotto",
+  "abilities" : [
+    "Keen-Eye",
+    "Tangled-Feet",
+    "Big-Pecks"
+  ]
+}

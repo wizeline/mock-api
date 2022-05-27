@@ -1,0 +1,16 @@
+{
+  "weight" : 295,
+  "id" : "3454C89F-8B1F-4966-8A74-2877B446A1AC",
+  "types" : [
+    "bug",
+    "grass"
+  ],
+  "baseExperience" : 142,
+  "image" : "/assets/p.parasect.png",
+  "name" : "parasect",
+  "abilities" : [
+    "Effect-Spore",
+    "Dry-Skin",
+    "Damp"
+  ]
+}

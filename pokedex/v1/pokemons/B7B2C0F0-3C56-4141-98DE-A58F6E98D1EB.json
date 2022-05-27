@@ -1,0 +1,15 @@
+{
+  "weight" : 320,
+  "id" : "B7B2C0F0-3C56-4141-98DE-A58F6E98D1EB",
+  "types" : [
+    "bug",
+    "flying"
+  ],
+  "baseExperience" : 198,
+  "image" : "/assets/p.butterfree.png",
+  "name" : "butterfree",
+  "abilities" : [
+    "Compound-Eyes",
+    "Tinted-Lens"
+  ]
+}

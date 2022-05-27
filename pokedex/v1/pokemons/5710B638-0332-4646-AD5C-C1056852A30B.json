@@ -1,0 +1,14 @@
+{
+  "weight" : 295,
+  "id" : "5710B638-0332-4646-AD5C-C1056852A30B",
+  "types" : [
+    "ground"
+  ],
+  "baseExperience" : 158,
+  "image" : "/assets/p.sandslash.png",
+  "name" : "sandslash",
+  "abilities" : [
+    "Sand-Veil",
+    "Sand-Rush"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "weight" : 884,
+  "id" : "5BE6AED8-7827-4F63-859B-335A68FF3937",
+  "types" : [
+    "normal"
+  ],
+  "baseExperience" : 172,
+  "image" : "/assets/p.tauros.png",
+  "name" : "tauros",
+  "abilities" : [
+    "Intimidate",
+    "Anger-Point",
+    "Sheer-Force"
+  ]
+}

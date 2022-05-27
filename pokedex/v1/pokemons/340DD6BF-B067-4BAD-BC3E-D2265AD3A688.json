@@ -1,0 +1,15 @@
+{
+  "weight" : 195,
+  "id" : "340DD6BF-B067-4BAD-BC3E-D2265AD3A688",
+  "types" : [
+    "psychic"
+  ],
+  "baseExperience" : 62,
+  "image" : "/assets/p.abra.png",
+  "name" : "abra",
+  "abilities" : [
+    "Synchronize",
+    "Inner-Focus",
+    "Magic-Guard"
+  ]
+}

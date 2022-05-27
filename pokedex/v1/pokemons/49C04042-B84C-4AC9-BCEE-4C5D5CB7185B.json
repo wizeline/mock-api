@@ -1,0 +1,15 @@
+{
+  "weight" : 35,
+  "id" : "49C04042-B84C-4AC9-BCEE-4C5D5CB7185B",
+  "types" : [
+    "normal"
+  ],
+  "baseExperience" : 51,
+  "image" : "/assets/p.rattata.png",
+  "name" : "rattata",
+  "abilities" : [
+    "Run-Away",
+    "Guts",
+    "Hustle"
+  ]
+}

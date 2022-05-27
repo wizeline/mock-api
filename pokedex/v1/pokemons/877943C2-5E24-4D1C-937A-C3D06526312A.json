@@ -1,0 +1,15 @@
+{
+  "weight" : 300,
+  "id" : "877943C2-5E24-4D1C-937A-C3D06526312A",
+  "types" : [
+    "poison"
+  ],
+  "baseExperience" : 175,
+  "image" : "/assets/p.muk.png",
+  "name" : "muk",
+  "abilities" : [
+    "Stench",
+    "Sticky-Hold",
+    "Poison-Touch"
+  ]
+}

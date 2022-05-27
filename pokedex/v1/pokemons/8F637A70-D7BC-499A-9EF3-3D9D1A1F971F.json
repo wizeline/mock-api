@@ -1,0 +1,15 @@
+{
+  "weight" : 900,
+  "id" : "8F637A70-D7BC-499A-9EF3-3D9D1A1F971F",
+  "types" : [
+    "water"
+  ],
+  "baseExperience" : 65,
+  "image" : "/assets/p.seel.png",
+  "name" : "seel",
+  "abilities" : [
+    "Thick-Fat",
+    "Hydration",
+    "Ice-Body"
+  ]
+}

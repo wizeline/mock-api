@@ -1,0 +1,14 @@
+{
+  "weight" : 1220,
+  "id" : "E8D51C67-9248-4987-83F8-93152C5151F3",
+  "types" : [
+    "psychic"
+  ],
+  "baseExperience" : 340,
+  "image" : "/assets/p.mewtwo.png",
+  "name" : "mewtwo",
+  "abilities" : [
+    "Pressure",
+    "Unnerve"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "weight" : 560,
+  "id" : "B0A5AD15-8B5D-4AE7-BC87-423ADDDE506C",
+  "types" : [
+    "bug",
+    "flying"
+  ],
+  "baseExperience" : 100,
+  "image" : "/assets/p.scyther.png",
+  "name" : "scyther",
+  "abilities" : [
+    "Swarm",
+    "Technician",
+    "Steadfast"
+  ]
+}

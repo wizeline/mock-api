@@ -1,0 +1,15 @@
+{
+  "weight" : 346,
+  "id" : "786AA03F-1F9F-4A76-8280-5EA953B0BB04",
+  "types" : [
+    "normal"
+  ],
+  "baseExperience" : 395,
+  "image" : "/assets/p.chansey.png",
+  "name" : "chansey",
+  "abilities" : [
+    "Natural-Cure",
+    "Serene-Grace",
+    "Healer"
+  ]
+}

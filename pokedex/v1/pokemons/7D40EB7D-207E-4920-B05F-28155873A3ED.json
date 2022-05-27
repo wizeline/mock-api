@@ -1,0 +1,15 @@
+{
+  "weight" : 80,
+  "id" : "7D40EB7D-207E-4920-B05F-28155873A3ED",
+  "types" : [
+    "water"
+  ],
+  "baseExperience" : 59,
+  "image" : "/assets/p.horsea.png",
+  "name" : "horsea",
+  "abilities" : [
+    "Swift-Swim",
+    "Sniper",
+    "Damp"
+  ]
+}
