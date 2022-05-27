@@ -1,0 +1,12 @@
+{
+  "author" : "Viktor E. Frankl",
+  "id" : "40660301-DBC3-444D-8BFD-64EB9B57BA5F",
+  "price" : 12.25,
+  "stock" : 15,
+  "title" : "Man's Search for Meaning",
+  "description" : "At the time of Frankl's death in 1997, Man's Search for Meaning had sold more than 10 million copies in twenty-four languages. A 1991 reader survey for the Library of Congress that asked readers to name a \"book that made a difference in your life\" found Man's Search for Meaning among the ten most influential books in America.",
+  "cover" : "/assets/b.man.jpeg",
+  "tags" : [
+    "Psychology"
+  ]
+}

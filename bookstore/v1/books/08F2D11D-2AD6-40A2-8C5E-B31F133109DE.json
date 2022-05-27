@@ -1,0 +1,14 @@
+{
+  "author" : "J.R.R Tolkien",
+  "id" : "08F2D11D-2AD6-40A2-8C5E-B31F133109DE",
+  "price" : 11.99,
+  "stock" : 7,
+  "title" : "The Two Towers",
+  "description" : "The Two Towers opens with the disintegration of the Fellowship, as Merry and Pippin are taken captive by Orcs after the death of Boromir in battle. The Orcs, having heard a prophecy that a Hobbit will bear a Ring that gives universal power to its owner, wrongly think that Merry and Pippin are the Ring-bearers.",
+  "cover" : "/assets/b.towers.jpeg",
+  "tags" : [
+    "Fantasy",
+    "Action",
+    "Novel"
+  ]
+}
