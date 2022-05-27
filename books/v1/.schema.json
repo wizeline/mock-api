@@ -1,0 +1,13 @@
+{
+  "books": ["`book`"],
+  "book": {
+    "author": "string",
+    "id": "string",
+    "price": "double",
+    "stock": "integer",
+    "title": "string",
+    "description": "string",
+    "cover": "string",
+    "tags": ["string"]
+  }
+}
