@@ -1,0 +1,87 @@
+{
+  "place" : null,
+  "contributors" : null,
+  "source" : "<a href=\"http://wizetwitter.com\" rel=\"nofollow\">Wize Proxy</a>",
+  "truncated" : false,
+  "is_quote_status" : false,
+  "favorite_count" : 0,
+  "lang" : "en",
+  "entities" : {
+    "symbols" : [
+
+    ],
+    "user_mentions" : [
+
+    ],
+    "urls" : [
+
+    ],
+    "hashtags" : [
+
+    ]
+  },
+  "in_reply_to_screen_name" : null,
+  "retweet_count" : 0,
+  "favorited" : false,
+  "geo" : null,
+  "id" : 1337427293912920000,
+  "user" : {
+    "protected" : false,
+    "is_translator" : false,
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/655037238409990144/VrE-PK8l_normal.png",
+    "created_at" : "Fri Oct 16 15:05:08 +0000 2015",
+    "id" : 3914981359,
+    "default_profile_image" : false,
+    "listed_count" : 0,
+    "profile_background_color" : "C0DEED",
+    "follow_request_sent" : false,
+    "location" : "Guadalajara, Jalisco",
+    "entities" : {
+      "description" : {
+        "urls" : [
+
+        ]
+      }
+    },
+    "url" : null,
+    "description" : "Wize Services Challenge Bot",
+    "followers_count" : 13,
+    "geo_enabled" : false,
+    "lang" : null,
+    "profile_text_color" : "333333",
+    "statuses_count" : 1058,
+    "following" : false,
+    "notifications" : false,
+    "profile_background_tile" : false,
+    "profile_use_background_image" : true,
+    "id_str" : "3914981359",
+    "name" : "Wize Bot",
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/655037238409990144/VrE-PK8l_normal.png",
+    "profile_sidebar_fill_color" : "DDEEF6",
+    "profile_sidebar_border_color" : "C0DEED",
+    "contributors_enabled" : false,
+    "default_profile" : true,
+    "profile_banner_url" : "https://pbs.twimg.com/profile_banners/3914981359/1445008243",
+    "screen_name" : "wizeservicesbot",
+    "time_zone" : null,
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_link_color" : "1DA1F2",
+    "favourites_count" : 5,
+    "is_translation_enabled" : false,
+    "translator_type" : "none",
+    "utc_offset" : null,
+    "friends_count" : 9,
+    "verified" : false,
+    "has_extended_profile" : false
+  },
+  "in_reply_to_user_id" : null,
+  "retweeted" : false,
+  "text" : "Third Tweet Post!",
+  "created_at" : "Fri Dec 11 16:01:29 +0000 2020",
+  "in_reply_to_status_id_str" : null,
+  "in_reply_to_status_id" : null,
+  "in_reply_to_user_id_str" : null,
+  "id_str" : "1337427293912920068",
+  "coordinates" : null
+}

@@ -3,12 +3,11 @@
 import Foundation
 
 extension URL {
-    
     var contentsOfDirectory: [String] {
         (try? FileManager.default.contentsOfDirectory(atPath: self.absoluteString)) ?? []
     }
     var subURLS: [URL] {
-        self.contentsOfDirectory.map({ 
+        self.contentsOfDirectory.map({
             self.appendingPathComponent($0)
         })
     }
@@ -30,10 +29,10 @@ CommandLine.arguments.forEach({ folderName in
                   let json = try? JSONSerialization.jsonObject(with: data, options: []) as? [NSDictionary]
             else { return }
             let basename = (filename as NSString).deletingPathExtension
+            let entryFolder = subfolder.appendingPathComponent(basename)
             json.forEach { entry in
-                guard let id = entry["id"] as? String else { return }
-                let entryFolder = subfolder.appendingPathComponent(basename)
-                let entryFile = entryFolder.appendingPathComponent("\(id).json")
+                guard let id = entry["id"] else { return }
+                let entryFile = entryFolder.appendingPathComponent("\(String(describing: id)).json")
                 do {
                     try FileManager.default.createDirectory(atPath: entryFolder.absoluteString, withIntermediateDirectories: true)
                     try JSONSerialization
@@ -44,7 +43,7 @@ CommandLine.arguments.forEach({ folderName in
                 }
             }
             let schema: NSMutableDictionary = NSMutableDictionary(dictionary: json.first ?? [:])
-            let schemaFile = subfolder.appendingPathComponent(".schema.json")
+            let schemaFile = entryFolder.appendingPathComponent(".schema.json")
             schema.allKeys.forEach({ key in
                 guard let key = key as? String else { return }
                 let value = schema[key]
@@ -58,6 +57,8 @@ CommandLine.arguments.forEach({ folderName in
                     schema.setValue("string", forKey: key)
                 } else if ((value as? [Any]) != nil) {
                     schema.setValue("array", forKey: key)
+                }  else if ((value as? [String:Any]) != nil) {
+                    schema.setValue("dictionary", forKey: key)
                 } else {
                     schema.setValue("unknown", forKey: key)
                 }
@@ -71,5 +72,4 @@ CommandLine.arguments.forEach({ folderName in
             }
         }
     }
-
 })
