@@ -1,0 +1,606 @@
+{
+  "id" : "list",
+  "count" : 150,
+  "results" : [
+    {
+      "name" : "bulbasaur",
+      "id" : "677C380A-A3C2-4087-B15B-AC78E3B763C2"
+    },
+    {
+      "name" : "ivysaur",
+      "id" : "12D70A1A-202A-4093-B49C-E9D5925470C0"
+    },
+    {
+      "id" : "4887414A-CD34-4132-9B0F-855D117F5191",
+      "name" : "venusaur"
+    },
+    {
+      "id" : "1278D4D5-E567-41BA-ADA7-02D3EC5FD039",
+      "name" : "charmander"
+    },
+    {
+      "id" : "6E1AF5AB-B823-48F0-8D72-96AEEAF16782",
+      "name" : "charmeleon"
+    },
+    {
+      "id" : "B62CEB00-8A0C-44A4-A014-D6865A98DD7D",
+      "name" : "charizard"
+    },
+    {
+      "id" : "7341EF2A-B3D2-4397-A306-A060F3CAF5DA",
+      "name" : "squirtle"
+    },
+    {
+      "id" : "336514A4-C52E-419F-A9A3-D72A55706A0E",
+      "name" : "wartortle"
+    },
+    {
+      "id" : "2E426E90-D805-4C30-8634-D0D50B77D13A",
+      "name" : "blastoise"
+    },
+    {
+      "id" : "C5516892-3D14-47BC-9F14-5FDB32993455",
+      "name" : "caterpie"
+    },
+    {
+      "id" : "E6C24087-3796-434D-A479-E77099460527",
+      "name" : "metapod"
+    },
+    {
+      "name" : "butterfree",
+      "id" : "B7B2C0F0-3C56-4141-98DE-A58F6E98D1EB"
+    },
+    {
+      "id" : "AA03F99E-7E2F-4D10-B0D5-E2D4746FE878",
+      "name" : "weedle"
+    },
+    {
+      "id" : "DAD3664A-66EB-4C63-9801-AB2503AD7151",
+      "name" : "kakuna"
+    },
+    {
+      "name" : "beedrill",
+      "id" : "9AC2B1A9-5573-4CF4-BF06-8049BB595EC7"
+    },
+    {
+      "name" : "pidgey",
+      "id" : "2FDFEAE1-C6FD-4C5C-B9DB-79D0F2AEB752"
+    },
+    {
+      "name" : "pidgeotto",
+      "id" : "3765BC9F-659A-44CA-AFB3-23CD18B4EF92"
+    },
+    {
+      "name" : "pidgeot",
+      "id" : "C1197D49-0DB0-4034-AD49-F3DE1EACD7A2"
+    },
+    {
+      "id" : "49C04042-B84C-4AC9-BCEE-4C5D5CB7185B",
+      "name" : "rattata"
+    },
+    {
+      "name" : "raticate",
+      "id" : "1BBF73B0-FA9D-42BE-96BA-C82A8E8C0130"
+    },
+    {
+      "id" : "C97BB2F9-B81D-4900-BC79-C9C516A45B10",
+      "name" : "spearow"
+    },
+    {
+      "name" : "fearow",
+      "id" : "96AF41B0-A044-47A2-84E7-5DB4D5D80B38"
+    },
+    {
+      "name" : "ekans",
+      "id" : "5321BAEF-4DA2-42C4-832C-C63B4F984E4B"
+    },
+    {
+      "id" : "0B6C1026-2573-4F9B-AD72-897384D312C4",
+      "name" : "arbok"
+    },
+    {
+      "name" : "pikachu",
+      "id" : "59B70561-2779-4104-A5DB-BA99876FA7C1"
+    },
+    {
+      "id" : "D0B3C968-D8EC-4237-B27A-48D863187D1C",
+      "name" : "raichu"
+    },
+    {
+      "id" : "1AD1458B-C4F2-45CB-91EA-EF4FB85F14DB",
+      "name" : "sandshrew"
+    },
+    {
+      "id" : "5710B638-0332-4646-AD5C-C1056852A30B",
+      "name" : "sandslash"
+    },
+    {
+      "name" : "nidoran-f",
+      "id" : "3C38CBD6-CD48-49B7-B35D-EE1BE3D5A61F"
+    },
+    {
+      "id" : "349F6135-B0ED-4419-8F23-BB72C17C8DA6",
+      "name" : "nidorina"
+    },
+    {
+      "id" : "0AB85375-AE44-4F19-AAB0-6E9D0E248030",
+      "name" : "nidoqueen"
+    },
+    {
+      "id" : "4CDFA423-91D1-4FDC-8566-BF73E0D1F18B",
+      "name" : "nidoran-m"
+    },
+    {
+      "name" : "nidorino",
+      "id" : "9287F342-B0B6-44D5-AC6B-72572DBE6CBF"
+    },
+    {
+      "id" : "AC868393-5D7C-4B5F-959E-D0DA621C987A",
+      "name" : "nidoking"
+    },
+    {
+      "id" : "EF6B4D9B-CAC7-4BA2-B9DB-5027A2FD2C53",
+      "name" : "clefairy"
+    },
+    {
+      "name" : "clefable",
+      "id" : "403AA8A0-22E5-4C5B-AC9B-03CB553C6EA7"
+    },
+    {
+      "name" : "vulpix",
+      "id" : "7EE8CC9F-54A2-4B7E-9BBD-7D2C89ECF720"
+    },
+    {
+      "name" : "ninetales",
+      "id" : "C230367F-1992-45BA-8D8D-86074560D975"
+    },
+    {
+      "id" : "5094963C-8DF7-42CE-93A3-5455E3E4DCF1",
+      "name" : "jigglypuff"
+    },
+    {
+      "id" : "AFAB48F9-3586-4988-A58D-92F3AB4B4B23",
+      "name" : "wigglytuff"
+    },
+    {
+      "id" : "9F94B313-77A7-4616-BB19-DBCC1E14EE9F",
+      "name" : "zubat"
+    },
+    {
+      "name" : "golbat",
+      "id" : "68C2EF6E-9388-443C-B30E-69A603334DDE"
+    },
+    {
+      "name" : "oddish",
+      "id" : "6B3577C9-20F7-4DCE-BD95-AC68C615214A"
+    },
+    {
+      "id" : "E149811C-24DA-47C7-BCAA-907E1DF48552",
+      "name" : "gloom"
+    },
+    {
+      "name" : "vileplume",
+      "id" : "62A0361D-E935-43F1-BAE8-653DBD5799AA"
+    },
+    {
+      "id" : "DF6760B2-7392-41A9-A991-01AF26DE3E0E",
+      "name" : "paras"
+    },
+    {
+      "id" : "3454C89F-8B1F-4966-8A74-2877B446A1AC",
+      "name" : "parasect"
+    },
+    {
+      "name" : "venonat",
+      "id" : "17DD0190-8EEB-4698-ADAC-96587E86D290"
+    },
+    {
+      "id" : "D7A4815D-1244-47B9-ACAB-6C7F59F9E753",
+      "name" : "venomoth"
+    },
+    {
+      "name" : "diglett",
+      "id" : "D5745A87-550B-4365-9404-901D60A4395C"
+    },
+    {
+      "id" : "CCA65956-1FBC-4E92-AF7A-15235BA020A5",
+      "name" : "dugtrio"
+    },
+    {
+      "name" : "meowth",
+      "id" : "45BB4CC8-5F78-48EE-85D2-F02B2E4E9112"
+    },
+    {
+      "name" : "persian",
+      "id" : "C3EC3A0E-5F48-4A4A-B1B4-5FB3EF871C11"
+    },
+    {
+      "id" : "C216441E-B569-4052-95A3-96ED254E7D33",
+      "name" : "psyduck"
+    },
+    {
+      "name" : "golduck",
+      "id" : "0377A94E-6D70-4CB4-8718-8DE338A80DAB"
+    },
+    {
+      "id" : "A7B0C5CE-DDBF-4E0B-A424-33A744ED34B3",
+      "name" : "mankey"
+    },
+    {
+      "id" : "30575598-0A7C-4178-8A68-B938693BA496",
+      "name" : "primeape"
+    },
+    {
+      "id" : "36770B9E-AFC3-45AE-AEBD-2CC0AD8BB98E",
+      "name" : "growlithe"
+    },
+    {
+      "name" : "arcanine",
+      "id" : "9DCBC369-2017-4492-877C-9EA17874DA96"
+    },
+    {
+      "name" : "poliwag",
+      "id" : "68D8D8D5-672E-47D1-A21D-A6A1A8AA4A69"
+    },
+    {
+      "name" : "poliwhirl",
+      "id" : "7E215165-9608-4F55-8368-9811CA7BB163"
+    },
+    {
+      "id" : "3241E120-2CD2-4F2C-BBC8-4D37BC6E998B",
+      "name" : "poliwrath"
+    },
+    {
+      "name" : "abra",
+      "id" : "340DD6BF-B067-4BAD-BC3E-D2265AD3A688"
+    },
+    {
+      "id" : "E460D537-477E-49C8-AD1B-C3D8581F5B52",
+      "name" : "kadabra"
+    },
+    {
+      "id" : "090E2E23-2E8C-4130-AF41-25A65321E1CE",
+      "name" : "machop"
+    },
+    {
+      "name" : "machoke",
+      "id" : "38DF1139-4CA1-4934-92E4-8D218735A898"
+    },
+    {
+      "name" : "machamp",
+      "id" : "99A07EC4-F835-4A37-8CFA-F8B0D79B8FEE"
+    },
+    {
+      "id" : "D8484F34-273B-4253-AEB4-13A049AA9422",
+      "name" : "bellsprout"
+    },
+    {
+      "name" : "weepinbell",
+      "id" : "62AD6EF1-0A44-4CBA-BED2-9D664754D903"
+    },
+    {
+      "id" : "1B39841B-AB87-4A4C-B7E9-6CB975F96D64",
+      "name" : "tentacool"
+    },
+    {
+      "name" : "tentacruel",
+      "id" : "1298FDD9-5171-4DF7-9322-515A8126558F"
+    },
+    {
+      "id" : "5E42A807-1530-4FC1-A9D2-1F362ABA2D52",
+      "name" : "geodude"
+    },
+    {
+      "name" : "graveler",
+      "id" : "F47ADFE9-A255-4764-B63B-61B6BE4925CC"
+    },
+    {
+      "id" : "E3985EF8-0C42-4304-8D7B-2C7A18B5A425",
+      "name" : "golem"
+    },
+    {
+      "name" : "ponyta",
+      "id" : "D6AE7E23-A7C9-43A4-AA35-98859889929D"
+    },
+    {
+      "name" : "rapidash",
+      "id" : "D613331F-CA98-4579-955A-C95B7D446AEE"
+    },
+    {
+      "name" : "slowbro",
+      "id" : "B355D501-2283-4B65-8172-4A081C03221A"
+    },
+    {
+      "id" : "6083970E-CD53-406E-95EC-51BCB3005709",
+      "name" : "magnemite"
+    },
+    {
+      "name" : "magneton",
+      "id" : "D13B5C40-6A2F-4013-B8D6-86319141BA5B"
+    },
+    {
+      "id" : "6F136D05-1D2F-4363-A989-597296F9DD31",
+      "name" : "doduo"
+    },
+    {
+      "id" : "FFF0236C-A354-4D38-9087-98E4CA5349E8",
+      "name" : "dodrio"
+    },
+    {
+      "name" : "seel",
+      "id" : "8F637A70-D7BC-499A-9EF3-3D9D1A1F971F"
+    },
+    {
+      "id" : "F96BF9FF-630E-493F-B476-53AF39E03EF3",
+      "name" : "grimer"
+    },
+    {
+      "id" : "CC3B2284-B7C7-43E5-AC21-BEAB1E30ED5F",
+      "name" : "shellder"
+    },
+    {
+      "name" : "gastly",
+      "id" : "0FDCAFA2-684E-4CB3-8FB3-A3671AABE2D7"
+    },
+    {
+      "name" : "haunter",
+      "id" : "41C52FF4-4613-4182-9F6D-BBD75A7BB37F"
+    },
+    {
+      "id" : "FDD5C046-152C-4DC3-9FD2-35AFE8379AD6",
+      "name" : "gengar"
+    },
+    {
+      "id" : "513D8885-5D68-466F-8317-58150FC638D4",
+      "name" : "drowzee"
+    },
+    {
+      "name" : "hypno",
+      "id" : "6EFC2619-4491-4EF9-81F9-57CA818E489B"
+    },
+    {
+      "name" : "krabby",
+      "id" : "7747AFE5-14D7-4206-89D9-A1BC968C4EEA"
+    },
+    {
+      "id" : "B0261677-E263-45AD-A560-A8B478721DD2",
+      "name" : "kingler"
+    },
+    {
+      "id" : "70A4EA82-9F26-4673-8132-6BC0EE021F99",
+      "name" : "voltorb"
+    },
+    {
+      "name" : "cubone",
+      "id" : "AE11C0B3-3D2A-4ABB-A4B9-D399F2D9462C"
+    },
+    {
+      "name" : "marowak",
+      "id" : "0A557053-3AE0-4884-A3E6-731F62F418A3"
+    },
+    {
+      "name" : "hitmonchan",
+      "id" : "DE8F7AEF-D675-4A0B-81B2-69631AB2DC54"
+    },
+    {
+      "name" : "lickitung",
+      "id" : "291B91BF-E60B-4AA8-9FE7-90714D10D988"
+    },
+    {
+      "id" : "195BFD9D-2DB2-47E1-95FE-CE92E5878F7B",
+      "name" : "koffing"
+    },
+    {
+      "id" : "6686C600-0CA1-4C20-918F-E8E181A2AFF2",
+      "name" : "rhyhorn"
+    },
+    {
+      "id" : "786AA03F-1F9F-4A76-8280-5EA953B0BB04",
+      "name" : "chansey"
+    },
+    {
+      "name" : "tangela",
+      "id" : "BFF23958-F418-4BBB-80EB-6895358BF106"
+    },
+    {
+      "id" : "7D40EB7D-207E-4920-B05F-28155873A3ED",
+      "name" : "horsea"
+    },
+    {
+      "id" : "B458899D-E063-4C6C-A1DC-F90F76293477",
+      "name" : "seadra"
+    },
+    {
+      "id" : "0B4940E5-812D-41DB-AAB3-BF0E1CF6B135",
+      "name" : "seaking"
+    },
+    {
+      "name" : "staryu",
+      "id" : "D43F81A9-015E-4CBC-A10E-EB2B5B6B3F5A"
+    },
+    {
+      "name" : "mr-mime",
+      "id" : "9E55AE72-8726-445E-BBCD-9472B553FF7F"
+    },
+    {
+      "id" : "70F835A7-09C5-43E0-B889-43B976E53FE4",
+      "name" : "farfetchd"
+    },
+    {
+      "name" : "porygon",
+      "id" : "B7340E74-558C-4630-8D60-2C7E670F6CB8"
+    },
+    {
+      "id" : "EBAB5064-780F-4C57-AA29-34DB68E39DB2",
+      "name" : "kangaskhan"
+    },
+    {
+      "name" : "onix",
+      "id" : "E4639A39-BEB9-4FDD-B8C3-0AA3FAB61FCF"
+    },
+    {
+      "name" : "mewtwo",
+      "id" : "E8D51C67-9248-4987-83F8-93152C5151F3"
+    },
+    {
+      "name" : "goldeen",
+      "id" : "23660092-30C1-4DCB-BEB7-A8F694E6D0A3"
+    },
+    {
+      "id" : "32A4CB74-4B8F-40CD-8A38-0FAB0FFD8DEC",
+      "name" : "hitmonlee"
+    },
+    {
+      "id" : "879D0167-8027-4347-A4C5-57C72304110F",
+      "name" : "jynx"
+    },
+    {
+      "name" : "jolteon",
+      "id" : "3DC826A8-FCCF-4D2A-AF0B-43000C553774"
+    },
+    {
+      "id" : "3CA07ECD-9046-4E10-AC89-7B8DC2CC02F3",
+      "name" : "electabuzz"
+    },
+    {
+      "id" : "2847F12B-2610-4CB2-B994-5011E960DEE9",
+      "name" : "cloyster"
+    },
+    {
+      "id" : "49486F79-BA21-446E-BB79-D5B84599D629",
+      "name" : "dewgong"
+    },
+    {
+      "name" : "exeggcute",
+      "id" : "FA35FAB6-5C3E-4845-9032-01C5CFF35FF8"
+    },
+    {
+      "name" : "ditto",
+      "id" : "156516C9-25C1-496C-AE51-0554746C0CC5"
+    },
+    {
+      "name" : "muk",
+      "id" : "877943C2-5E24-4D1C-937A-C3D06526312A"
+    },
+    {
+      "id" : "E240E34D-72F5-4042-AAB6-A61B84368F7F",
+      "name" : "kabutops"
+    },
+    {
+      "name" : "kabuto",
+      "id" : "378D22E4-0F5D-449B-B374-033A53260407"
+    },
+    {
+      "name" : "rhydon",
+      "id" : "ECFB7622-51E1-4778-9763-48876734A2F0"
+    },
+    {
+      "id" : "EF878E32-A95A-456E-802F-263F89FB0D8E",
+      "name" : "omastar"
+    },
+    {
+      "name" : "lapras",
+      "id" : "51224BE0-5413-4158-8432-2DD66107BDA3"
+    },
+    {
+      "name" : "slowpoke",
+      "id" : "AADBFFB1-4279-4F6F-9737-8702DD5083A2"
+    },
+    {
+      "id" : "BBFEC934-8336-4945-8576-E4C5BF8505FD",
+      "name" : "pinsir"
+    },
+    {
+      "id" : "9452490D-BA48-40BD-A459-8ACF1870C8BB",
+      "name" : "moltres"
+    },
+    {
+      "name" : "aerodactyl",
+      "id" : "CD2F57AB-D6D0-46C5-9923-4FBC5654AF29"
+    },
+    {
+      "id" : "21D8FF20-FE82-4C09-8377-07046FB9FDC0",
+      "name" : "gyarados"
+    },
+    {
+      "name" : "alakazam",
+      "id" : "182D1AE5-D193-4096-83D6-4132FFFFBC6B"
+    },
+    {
+      "id" : "7B03F7C7-4494-43CF-90B8-A05877617416",
+      "name" : "victreebel"
+    },
+    {
+      "id" : "F7441577-78AB-4C5F-97E7-935ABAFF24CA",
+      "name" : "flareon"
+    },
+    {
+      "id" : "7EFD730E-CF20-42A3-BB5B-28230A5C7A16",
+      "name" : "eevee"
+    },
+    {
+      "id" : "8E5CD8BE-8D90-4F9B-864C-29EE484D50FB",
+      "name" : "articuno"
+    },
+    {
+      "id" : "22B028FA-D83F-4266-B73C-B6C956015A5F",
+      "name" : "omanyte"
+    },
+    {
+      "name" : "dragonair",
+      "id" : "93BCD747-C414-4386-A051-D4A02924CE98"
+    },
+    {
+      "id" : "1E5AE083-411A-4957-853C-254D41539DA4",
+      "name" : "dragonite"
+    },
+    {
+      "id" : "467366C0-CFE5-4ADA-A8B3-5DE7643633A5",
+      "name" : "zapdos"
+    },
+    {
+      "id" : "F61D825A-A9EC-4F9D-818B-39B4C7705BD1",
+      "name" : "exeggutor"
+    },
+    {
+      "id" : "AE5AA37A-79E8-4F9E-AB4F-D742622BC859",
+      "name" : "snorlax"
+    },
+    {
+      "name" : "magmar",
+      "id" : "00D69518-8787-4C8A-BE01-D0894524AB00"
+    },
+    {
+      "id" : "5BE6AED8-7827-4F63-859B-335A68FF3937",
+      "name" : "tauros"
+    },
+    {
+      "id" : "F33CCE61-C7C0-444C-9880-E8006CB37AF4",
+      "name" : "starmie"
+    },
+    {
+      "name" : "scyther",
+      "id" : "B0A5AD15-8B5D-4AE7-BC87-423ADDDE506C"
+    },
+    {
+      "name" : "magikarp",
+      "id" : "DFE2C114-8410-4B22-8F3A-301A03EABAAC"
+    },
+    {
+      "id" : "1504E532-F045-41BC-A5B1-2358F05ABE21",
+      "name" : "electrode"
+    },
+    {
+      "name" : "dratini",
+      "id" : "D6D8FA60-5CF9-471A-B897-53EEA50352EA"
+    },
+    {
+      "id" : "F70A8B80-D930-475A-A5B8-4D0758BD778D",
+      "name" : "vaporeon"
+    },
+    {
+      "name" : "weezing",
+      "id" : "34D524FF-8090-4285-8CAC-644A97D7FC0E"
+    }
+  ]
+}
