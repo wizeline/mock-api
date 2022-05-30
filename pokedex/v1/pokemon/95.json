@@ -1,0 +1,16 @@
+{
+  "weight" : 2100,
+  "id" : 95,
+  "types" : [
+    "rock",
+    "ground"
+  ],
+  "image" : "/assets/p.onix.png",
+  "base_experience" : 77,
+  "name" : "onix",
+  "abilities" : [
+    "Rock-Head",
+    "Sturdy",
+    "Weak-Armor"
+  ]
+}

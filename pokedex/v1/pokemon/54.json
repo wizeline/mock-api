@@ -1,0 +1,15 @@
+{
+  "weight" : 196,
+  "id" : 54,
+  "types" : [
+    "water"
+  ],
+  "image" : "/assets/p.psyduck.png",
+  "base_experience" : 64,
+  "name" : "psyduck",
+  "abilities" : [
+    "Damp",
+    "Cloud-Nine",
+    "Swift-Swim"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "weight" : 185,
+  "id" : 20,
+  "types" : [
+    "normal"
+  ],
+  "image" : "/assets/p.raticate.png",
+  "base_experience" : 145,
+  "name" : "raticate",
+  "abilities" : [
+    "Run-Away",
+    "Guts",
+    "Hustle"
+  ]
+}

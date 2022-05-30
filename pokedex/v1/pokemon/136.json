@@ -1,0 +1,14 @@
+{
+  "weight" : 250,
+  "id" : 136,
+  "types" : [
+    "fire"
+  ],
+  "image" : "/assets/p.flareon.png",
+  "base_experience" : 184,
+  "name" : "flareon",
+  "abilities" : [
+    "Flash-Fire",
+    "Guts"
+  ]
+}

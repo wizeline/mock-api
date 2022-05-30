@@ -1,0 +1,15 @@
+{
+  "weight" : 333,
+  "id" : 51,
+  "types" : [
+    "ground"
+  ],
+  "image" : "/assets/p.dugtrio.png",
+  "base_experience" : 149,
+  "name" : "dugtrio",
+  "abilities" : [
+    "Sand-Veil",
+    "Arena-Trap",
+    "Sand-Force"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "weight" : 60,
+  "id" : 25,
+  "types" : [
+    "electric"
+  ],
+  "image" : "/assets/p.pikachu.png",
+  "base_experience" : 112,
+  "name" : "pikachu",
+  "abilities" : [
+    "Static",
+    "Lightning-Rod"
+  ]
+}

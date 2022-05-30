@@ -1,0 +1,16 @@
+{
+  "weight" : 785,
+  "id" : 80,
+  "types" : [
+    "water",
+    "psychic"
+  ],
+  "image" : "/assets/p.slowbro.png",
+  "base_experience" : 172,
+  "name" : "slowbro",
+  "abilities" : [
+    "Oblivious",
+    "Own-Tempo",
+    "Regenerator"
+  ]
+}

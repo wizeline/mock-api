@@ -1,0 +1,16 @@
+{
+  "weight" : 406,
+  "id" : 124,
+  "types" : [
+    "ice",
+    "psychic"
+  ],
+  "image" : "/assets/p.jynx.png",
+  "base_experience" : 159,
+  "name" : "jynx",
+  "abilities" : [
+    "Oblivious",
+    "Forewarn",
+    "Dry-Skin"
+  ]
+}

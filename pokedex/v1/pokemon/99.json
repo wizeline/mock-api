@@ -1,0 +1,15 @@
+{
+  "weight" : 600,
+  "id" : 99,
+  "types" : [
+    "water"
+  ],
+  "image" : "/assets/p.kingler.png",
+  "base_experience" : 166,
+  "name" : "kingler",
+  "abilities" : [
+    "Hyper-Cutter",
+    "Shell-Armor",
+    "Sheer-Force"
+  ]
+}

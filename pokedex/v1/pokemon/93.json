@@ -1,0 +1,14 @@
+{
+  "weight" : 1,
+  "id" : 93,
+  "types" : [
+    "ghost",
+    "poison"
+  ],
+  "image" : "/assets/p.haunter.png",
+  "base_experience" : 142,
+  "name" : "haunter",
+  "abilities" : [
+    "Levitate"
+  ]
+}

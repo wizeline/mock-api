@@ -1,0 +1,15 @@
+{
+  "weight" : 300,
+  "id" : 88,
+  "types" : [
+    "poison"
+  ],
+  "image" : "/assets/p.grimer.png",
+  "base_experience" : 65,
+  "name" : "grimer",
+  "abilities" : [
+    "Stench",
+    "Sticky-Hold",
+    "Poison-Touch"
+  ]
+}

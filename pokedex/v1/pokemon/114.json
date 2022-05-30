@@ -1,0 +1,15 @@
+{
+  "weight" : 350,
+  "id" : 114,
+  "types" : [
+    "grass"
+  ],
+  "image" : "/assets/p.tangela.png",
+  "base_experience" : 87,
+  "name" : "tangela",
+  "abilities" : [
+    "Chlorophyll",
+    "Leaf-Guard",
+    "Regenerator"
+  ]
+}

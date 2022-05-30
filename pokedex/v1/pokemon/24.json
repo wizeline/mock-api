@@ -1,0 +1,15 @@
+{
+  "weight" : 650,
+  "id" : 24,
+  "types" : [
+    "poison"
+  ],
+  "image" : "/assets/p.arbok.png",
+  "base_experience" : 157,
+  "name" : "arbok",
+  "abilities" : [
+    "Intimidate",
+    "Shed-Skin",
+    "Unnerve"
+  ]
+}

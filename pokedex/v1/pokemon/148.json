@@ -1,0 +1,14 @@
+{
+  "weight" : 165,
+  "id" : 148,
+  "types" : [
+    "dragon"
+  ],
+  "image" : "/assets/p.dragonair.png",
+  "base_experience" : 147,
+  "name" : "dragonair",
+  "abilities" : [
+    "Shed-Skin",
+    "Marvel-Scale"
+  ]
+}

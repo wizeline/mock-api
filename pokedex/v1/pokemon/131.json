@@ -1,0 +1,16 @@
+{
+  "weight" : 2200,
+  "id" : 131,
+  "types" : [
+    "water",
+    "ice"
+  ],
+  "image" : "/assets/p.lapras.png",
+  "base_experience" : 187,
+  "name" : "lapras",
+  "abilities" : [
+    "Water-Absorb",
+    "Shell-Armor",
+    "Hydration"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "weight" : 380,
+  "id" : 22,
+  "types" : [
+    "normal",
+    "flying"
+  ],
+  "image" : "/assets/p.fearow.png",
+  "base_experience" : 155,
+  "name" : "fearow",
+  "abilities" : [
+    "Keen-Eye",
+    "Sniper"
+  ]
+}

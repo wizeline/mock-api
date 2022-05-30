@@ -1,0 +1,16 @@
+{
+  "weight" : 18,
+  "id" : 16,
+  "types" : [
+    "normal",
+    "flying"
+  ],
+  "image" : "/assets/p.pidgey.png",
+  "base_experience" : 50,
+  "name" : "pidgey",
+  "abilities" : [
+    "Keen-Eye",
+    "Tangled-Feet",
+    "Big-Pecks"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "weight" : 550,
+  "id" : 127,
+  "types" : [
+    "bug"
+  ],
+  "image" : "/assets/p.pinsir.png",
+  "base_experience" : 175,
+  "name" : "pinsir",
+  "abilities" : [
+    "Hyper-Cutter",
+    "Mold-Breaker",
+    "Moxie"
+  ]
+}

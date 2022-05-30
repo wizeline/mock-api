@@ -1,0 +1,15 @@
+{
+  "weight" : 40,
+  "id" : 69,
+  "types" : [
+    "grass",
+    "poison"
+  ],
+  "image" : "/assets/p.bellsprout.png",
+  "base_experience" : 60,
+  "name" : "bellsprout",
+  "abilities" : [
+    "Chlorophyll",
+    "Gluttony"
+  ]
+}

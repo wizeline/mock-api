@@ -1,0 +1,16 @@
+{
+  "weight" : 120,
+  "id" : 40,
+  "types" : [
+    "normal",
+    "fairy"
+  ],
+  "image" : "/assets/p.wigglytuff.png",
+  "base_experience" : 218,
+  "name" : "wigglytuff",
+  "abilities" : [
+    "Cute-Charm",
+    "Competitive",
+    "Frisk"
+  ]
+}

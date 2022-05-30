@@ -1,0 +1,14 @@
+{
+  "weight" : 29,
+  "id" : 10,
+  "types" : [
+    "bug"
+  ],
+  "image" : "/assets/p.caterpie.png",
+  "base_experience" : 39,
+  "name" : "caterpie",
+  "abilities" : [
+    "Shield-Dust",
+    "Run-Away"
+  ]
+}

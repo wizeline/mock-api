@@ -1,0 +1,15 @@
+{
+  "weight" : 800,
+  "id" : 115,
+  "types" : [
+    "normal"
+  ],
+  "image" : "/assets/p.kangaskhan.png",
+  "base_experience" : 172,
+  "name" : "kangaskhan",
+  "abilities" : [
+    "Early-Bird",
+    "Scrappy",
+    "Inner-Focus"
+  ]
+}

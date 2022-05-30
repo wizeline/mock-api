@@ -1,0 +1,15 @@
+{
+  "weight" : 95,
+  "id" : 110,
+  "types" : [
+    "poison"
+  ],
+  "image" : "/assets/p.weezing.png",
+  "base_experience" : 172,
+  "name" : "weezing",
+  "abilities" : [
+    "Levitate",
+    "Neutralizing-Gas",
+    "Stench"
+  ]
+}

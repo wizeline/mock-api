@@ -1,0 +1,15 @@
+{
+  "weight" : 450,
+  "id" : 105,
+  "types" : [
+    "ground"
+  ],
+  "image" : "/assets/p.marowak.png",
+  "base_experience" : 149,
+  "name" : "marowak",
+  "abilities" : [
+    "Rock-Head",
+    "Lightning-Rod",
+    "Battle-Armor"
+  ]
+}

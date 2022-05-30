@@ -1,0 +1,14 @@
+{
+  "weight" : 1,
+  "id" : 92,
+  "types" : [
+    "ghost",
+    "poison"
+  ],
+  "image" : "/assets/p.gastly.png",
+  "base_experience" : 62,
+  "name" : "gastly",
+  "abilities" : [
+    "Levitate"
+  ]
+}

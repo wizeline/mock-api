@@ -1,0 +1,16 @@
+{
+  "weight" : 360,
+  "id" : 79,
+  "types" : [
+    "water",
+    "psychic"
+  ],
+  "image" : "/assets/p.slowpoke.png",
+  "base_experience" : 63,
+  "name" : "slowpoke",
+  "abilities" : [
+    "Oblivious",
+    "Own-Tempo",
+    "Regenerator"
+  ]
+}

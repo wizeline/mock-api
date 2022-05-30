@@ -1,0 +1,16 @@
+{
+  "weight" : 600,
+  "id" : 82,
+  "types" : [
+    "electric",
+    "steel"
+  ],
+  "image" : "/assets/p.magneton.png",
+  "base_experience" : 163,
+  "name" : "magneton",
+  "abilities" : [
+    "Magnet-Pull",
+    "Sturdy",
+    "Analytic"
+  ]
+}

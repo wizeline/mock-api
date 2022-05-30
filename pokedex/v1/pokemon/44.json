@@ -1,0 +1,15 @@
+{
+  "weight" : 86,
+  "id" : 44,
+  "types" : [
+    "grass",
+    "poison"
+  ],
+  "image" : "/assets/p.gloom.png",
+  "base_experience" : 138,
+  "name" : "gloom",
+  "abilities" : [
+    "Chlorophyll",
+    "Stench"
+  ]
+}

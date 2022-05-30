@@ -1,0 +1,15 @@
+{
+  "weight" : 554,
+  "id" : 144,
+  "types" : [
+    "ice",
+    "flying"
+  ],
+  "image" : "/assets/p.articuno.png",
+  "base_experience" : 290,
+  "name" : "articuno",
+  "abilities" : [
+    "Pressure",
+    "Snow-Cloak"
+  ]
+}

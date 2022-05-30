@@ -1,0 +1,16 @@
+{
+  "weight" : 54,
+  "id" : 46,
+  "types" : [
+    "bug",
+    "grass"
+  ],
+  "image" : "/assets/p.paras.png",
+  "base_experience" : 57,
+  "name" : "paras",
+  "abilities" : [
+    "Effect-Spore",
+    "Dry-Skin",
+    "Damp"
+  ]
+}

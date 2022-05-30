@@ -1,0 +1,14 @@
+{
+  "weight" : 100,
+  "id" : 14,
+  "types" : [
+    "bug",
+    "poison"
+  ],
+  "image" : "/assets/p.kakuna.png",
+  "base_experience" : 72,
+  "name" : "kakuna",
+  "abilities" : [
+    "Shed-Skin"
+  ]
+}

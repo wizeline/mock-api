@@ -1,0 +1,15 @@
+{
+  "weight" : 655,
+  "id" : 108,
+  "types" : [
+    "normal"
+  ],
+  "image" : "/assets/p.lickitung.png",
+  "base_experience" : 77,
+  "name" : "lickitung",
+  "abilities" : [
+    "Own-Tempo",
+    "Oblivious",
+    "Cloud-Nine"
+  ]
+}

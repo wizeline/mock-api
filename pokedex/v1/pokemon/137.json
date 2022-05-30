@@ -1,0 +1,15 @@
+{
+  "weight" : 365,
+  "id" : 137,
+  "types" : [
+    "normal"
+  ],
+  "image" : "/assets/p.porygon.png",
+  "base_experience" : 79,
+  "name" : "porygon",
+  "abilities" : [
+    "Trace",
+    "Download",
+    "Analytic"
+  ]
+}

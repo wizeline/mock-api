@@ -1,0 +1,15 @@
+{
+  "weight" : 65,
+  "id" : 98,
+  "types" : [
+    "water"
+  ],
+  "image" : "/assets/p.krabby.png",
+  "base_experience" : 65,
+  "name" : "krabby",
+  "abilities" : [
+    "Hyper-Cutter",
+    "Shell-Armor",
+    "Sheer-Force"
+  ]
+}

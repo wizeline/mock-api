@@ -1,0 +1,15 @@
+{
+  "weight" : 32,
+  "id" : 13,
+  "types" : [
+    "bug",
+    "poison"
+  ],
+  "image" : "/assets/p.weedle.png",
+  "base_experience" : 39,
+  "name" : "weedle",
+  "abilities" : [
+    "Shield-Dust",
+    "Run-Away"
+  ]
+}

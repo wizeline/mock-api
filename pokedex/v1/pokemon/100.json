@@ -1,0 +1,15 @@
+{
+  "weight" : 104,
+  "id" : 100,
+  "types" : [
+    "electric"
+  ],
+  "image" : "/assets/p.voltorb.png",
+  "base_experience" : 66,
+  "name" : "voltorb",
+  "abilities" : [
+    "Soundproof",
+    "Static",
+    "Aftermath"
+  ]
+}

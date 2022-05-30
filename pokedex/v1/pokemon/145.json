@@ -1,0 +1,15 @@
+{
+  "weight" : 526,
+  "id" : 145,
+  "types" : [
+    "electric",
+    "flying"
+  ],
+  "image" : "/assets/p.zapdos.png",
+  "base_experience" : 290,
+  "name" : "zapdos",
+  "abilities" : [
+    "Pressure",
+    "Static"
+  ]
+}

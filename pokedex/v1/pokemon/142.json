@@ -1,0 +1,16 @@
+{
+  "weight" : 590,
+  "id" : 142,
+  "types" : [
+    "rock",
+    "flying"
+  ],
+  "image" : "/assets/p.aerodactyl.png",
+  "base_experience" : 180,
+  "name" : "aerodactyl",
+  "abilities" : [
+    "Rock-Head",
+    "Pressure",
+    "Unnerve"
+  ]
+}

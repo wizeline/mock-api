@@ -1,0 +1,15 @@
+{
+  "weight" : 54,
+  "id" : 43,
+  "types" : [
+    "grass",
+    "poison"
+  ],
+  "image" : "/assets/p.oddish.png",
+  "base_experience" : 64,
+  "name" : "oddish",
+  "abilities" : [
+    "Chlorophyll",
+    "Run-Away"
+  ]
+}

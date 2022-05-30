@@ -1,0 +1,15 @@
+{
+  "weight" : 20,
+  "id" : 21,
+  "types" : [
+    "normal",
+    "flying"
+  ],
+  "image" : "/assets/p.spearow.png",
+  "base_experience" : 52,
+  "name" : "spearow",
+  "abilities" : [
+    "Keen-Eye",
+    "Sniper"
+  ]
+}

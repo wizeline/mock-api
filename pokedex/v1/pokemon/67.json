@@ -1,0 +1,15 @@
+{
+  "weight" : 705,
+  "id" : 67,
+  "types" : [
+    "fighting"
+  ],
+  "image" : "/assets/p.machoke.png",
+  "base_experience" : 142,
+  "name" : "machoke",
+  "abilities" : [
+    "Guts",
+    "No-Guard",
+    "Steadfast"
+  ]
+}

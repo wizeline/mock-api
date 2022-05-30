@@ -1,0 +1,14 @@
+{
+  "weight" : 190,
+  "id" : 5,
+  "types" : [
+    "fire"
+  ],
+  "image" : "/assets/p.charmeleon.png",
+  "base_experience" : 142,
+  "name" : "charmeleon",
+  "abilities" : [
+    "Blaze",
+    "Solar-Power"
+  ]
+}

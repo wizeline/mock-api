@@ -1,0 +1,14 @@
+{
+  "weight" : 199,
+  "id" : 38,
+  "types" : [
+    "fire"
+  ],
+  "image" : "/assets/p.ninetales.png",
+  "base_experience" : 177,
+  "name" : "ninetales",
+  "abilities" : [
+    "Flash-Fire",
+    "Drought"
+  ]
+}

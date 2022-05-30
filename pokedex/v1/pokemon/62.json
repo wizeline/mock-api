@@ -1,0 +1,16 @@
+{
+  "weight" : 540,
+  "id" : 62,
+  "types" : [
+    "water",
+    "fighting"
+  ],
+  "image" : "/assets/p.poliwrath.png",
+  "base_experience" : 255,
+  "name" : "poliwrath",
+  "abilities" : [
+    "Water-Absorb",
+    "Damp",
+    "Swift-Swim"
+  ]
+}

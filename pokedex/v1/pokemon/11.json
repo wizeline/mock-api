@@ -1,0 +1,13 @@
+{
+  "weight" : 99,
+  "id" : 11,
+  "types" : [
+    "bug"
+  ],
+  "image" : "/assets/p.metapod.png",
+  "base_experience" : 72,
+  "name" : "metapod",
+  "abilities" : [
+    "Shed-Skin"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "weight" : 150,
+  "id" : 83,
+  "types" : [
+    "normal",
+    "flying"
+  ],
+  "image" : "/assets/p.farfetchd.png",
+  "base_experience" : 132,
+  "name" : "farfetchd",
+  "abilities" : [
+    "Keen-Eye",
+    "Inner-Focus",
+    "Defiant"
+  ]
+}

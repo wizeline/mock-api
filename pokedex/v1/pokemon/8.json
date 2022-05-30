@@ -1,0 +1,14 @@
+{
+  "weight" : 225,
+  "id" : 8,
+  "types" : [
+    "water"
+  ],
+  "image" : "/assets/p.wartortle.png",
+  "base_experience" : 142,
+  "name" : "wartortle",
+  "abilities" : [
+    "Torrent",
+    "Rain-Dish"
+  ]
+}

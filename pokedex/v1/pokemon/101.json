@@ -1,0 +1,15 @@
+{
+  "weight" : 666,
+  "id" : 101,
+  "types" : [
+    "electric"
+  ],
+  "image" : "/assets/p.electrode.png",
+  "base_experience" : 172,
+  "name" : "electrode",
+  "abilities" : [
+    "Soundproof",
+    "Static",
+    "Aftermath"
+  ]
+}

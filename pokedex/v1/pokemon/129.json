@@ -1,0 +1,14 @@
+{
+  "weight" : 100,
+  "id" : 129,
+  "types" : [
+    "water"
+  ],
+  "image" : "/assets/p.magikarp.png",
+  "base_experience" : 40,
+  "name" : "magikarp",
+  "abilities" : [
+    "Swift-Swim",
+    "Rattled"
+  ]
+}

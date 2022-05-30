@@ -1,0 +1,15 @@
+{
+  "weight" : 766,
+  "id" : 55,
+  "types" : [
+    "water"
+  ],
+  "image" : "/assets/p.golduck.png",
+  "base_experience" : 175,
+  "name" : "golduck",
+  "abilities" : [
+    "Damp",
+    "Cloud-Nine",
+    "Swift-Swim"
+  ]
+}

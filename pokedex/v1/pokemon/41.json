@@ -1,0 +1,15 @@
+{
+  "weight" : 75,
+  "id" : 41,
+  "types" : [
+    "poison",
+    "flying"
+  ],
+  "image" : "/assets/p.zubat.png",
+  "base_experience" : 49,
+  "name" : "zubat",
+  "abilities" : [
+    "Inner-Focus",
+    "Infiltrator"
+  ]
+}

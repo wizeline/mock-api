@@ -1,0 +1,15 @@
+{
+  "weight" : 2100,
+  "id" : 149,
+  "types" : [
+    "dragon",
+    "flying"
+  ],
+  "image" : "/assets/p.dragonite.png",
+  "base_experience" : 300,
+  "name" : "dragonite",
+  "abilities" : [
+    "Inner-Focus",
+    "Multiscale"
+  ]
+}

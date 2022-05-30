@@ -1,0 +1,15 @@
+{
+  "weight" : 565,
+  "id" : 64,
+  "types" : [
+    "psychic"
+  ],
+  "image" : "/assets/p.kadabra.png",
+  "base_experience" : 140,
+  "name" : "kadabra",
+  "abilities" : [
+    "Synchronize",
+    "Inner-Focus",
+    "Magic-Guard"
+  ]
+}

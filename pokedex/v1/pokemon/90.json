@@ -1,0 +1,15 @@
+{
+  "weight" : 40,
+  "id" : 90,
+  "types" : [
+    "water"
+  ],
+  "image" : "/assets/p.shellder.png",
+  "base_experience" : 61,
+  "name" : "shellder",
+  "abilities" : [
+    "Shell-Armor",
+    "Skill-Link",
+    "Overcoat"
+  ]
+}

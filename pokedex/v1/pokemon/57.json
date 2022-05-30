@@ -1,0 +1,15 @@
+{
+  "weight" : 320,
+  "id" : 57,
+  "types" : [
+    "fighting"
+  ],
+  "image" : "/assets/p.primeape.png",
+  "base_experience" : 159,
+  "name" : "primeape",
+  "abilities" : [
+    "Vital-Spirit",
+    "Anger-Point",
+    "Defiant"
+  ]
+}

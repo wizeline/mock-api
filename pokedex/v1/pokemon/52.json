@@ -1,0 +1,15 @@
+{
+  "weight" : 42,
+  "id" : 52,
+  "types" : [
+    "normal"
+  ],
+  "image" : "/assets/p.meowth.png",
+  "base_experience" : 58,
+  "name" : "meowth",
+  "abilities" : [
+    "Pickup",
+    "Technician",
+    "Unnerve"
+  ]
+}

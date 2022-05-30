@@ -1,0 +1,14 @@
+{
+  "weight" : 85,
+  "id" : 4,
+  "types" : [
+    "fire"
+  ],
+  "image" : "/assets/p.charmander.png",
+  "base_experience" : 62,
+  "name" : "charmander",
+  "abilities" : [
+    "Blaze",
+    "Solar-Power"
+  ]
+}

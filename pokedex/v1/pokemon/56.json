@@ -1,0 +1,15 @@
+{
+  "weight" : 280,
+  "id" : 56,
+  "types" : [
+    "fighting"
+  ],
+  "image" : "/assets/p.mankey.png",
+  "base_experience" : 61,
+  "name" : "mankey",
+  "abilities" : [
+    "Vital-Spirit",
+    "Anger-Point",
+    "Defiant"
+  ]
+}

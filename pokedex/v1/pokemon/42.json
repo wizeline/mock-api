@@ -1,0 +1,15 @@
+{
+  "weight" : 550,
+  "id" : 42,
+  "types" : [
+    "poison",
+    "flying"
+  ],
+  "image" : "/assets/p.golbat.png",
+  "base_experience" : 159,
+  "name" : "golbat",
+  "abilities" : [
+    "Inner-Focus",
+    "Infiltrator"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "weight" : 300,
+  "id" : 48,
+  "types" : [
+    "bug",
+    "poison"
+  ],
+  "image" : "/assets/p.venonat.png",
+  "base_experience" : 61,
+  "name" : "venonat",
+  "abilities" : [
+    "Compound-Eyes",
+    "Tinted-Lens",
+    "Run-Away"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "weight" : 55,
+  "id" : 39,
+  "types" : [
+    "normal",
+    "fairy"
+  ],
+  "image" : "/assets/p.jigglypuff.png",
+  "base_experience" : 95,
+  "name" : "jigglypuff",
+  "abilities" : [
+    "Cute-Charm",
+    "Competitive",
+    "Friend-Guard"
+  ]
+}

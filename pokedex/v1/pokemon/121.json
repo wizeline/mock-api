@@ -1,0 +1,16 @@
+{
+  "weight" : 800,
+  "id" : 121,
+  "types" : [
+    "water",
+    "psychic"
+  ],
+  "image" : "/assets/p.starmie.png",
+  "base_experience" : 182,
+  "name" : "starmie",
+  "abilities" : [
+    "Illuminate",
+    "Natural-Cure",
+    "Analytic"
+  ]
+}

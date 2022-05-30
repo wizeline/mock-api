@@ -1,0 +1,15 @@
+{
+  "weight" : 345,
+  "id" : 120,
+  "types" : [
+    "water"
+  ],
+  "image" : "/assets/p.staryu.png",
+  "base_experience" : 68,
+  "name" : "staryu",
+  "abilities" : [
+    "Illuminate",
+    "Natural-Cure",
+    "Analytic"
+  ]
+}

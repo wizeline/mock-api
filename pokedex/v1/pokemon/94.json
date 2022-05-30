@@ -1,0 +1,14 @@
+{
+  "weight" : 405,
+  "id" : 94,
+  "types" : [
+    "ghost",
+    "poison"
+  ],
+  "image" : "/assets/p.gengar.png",
+  "base_experience" : 250,
+  "name" : "gengar",
+  "abilities" : [
+    "Cursed-Body"
+  ]
+}

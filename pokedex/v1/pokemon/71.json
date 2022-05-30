@@ -1,0 +1,15 @@
+{
+  "weight" : 155,
+  "id" : 71,
+  "types" : [
+    "grass",
+    "poison"
+  ],
+  "image" : "/assets/p.victreebel.png",
+  "base_experience" : 221,
+  "name" : "victreebel",
+  "abilities" : [
+    "Chlorophyll",
+    "Gluttony"
+  ]
+}

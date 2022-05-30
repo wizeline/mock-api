@@ -1,0 +1,15 @@
+{
+  "weight" : 75,
+  "id" : 35,
+  "types" : [
+    "fairy"
+  ],
+  "image" : "/assets/p.clefairy.png",
+  "base_experience" : 113,
+  "name" : "clefairy",
+  "abilities" : [
+    "Cute-Charm",
+    "Magic-Guard",
+    "Friend-Guard"
+  ]
+}

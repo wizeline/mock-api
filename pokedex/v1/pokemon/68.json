@@ -1,0 +1,15 @@
+{
+  "weight" : 1300,
+  "id" : 68,
+  "types" : [
+    "fighting"
+  ],
+  "image" : "/assets/p.machamp.png",
+  "base_experience" : 253,
+  "name" : "machamp",
+  "abilities" : [
+    "Guts",
+    "No-Guard",
+    "Steadfast"
+  ]
+}

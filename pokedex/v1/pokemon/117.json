@@ -1,0 +1,15 @@
+{
+  "weight" : 250,
+  "id" : 117,
+  "types" : [
+    "water"
+  ],
+  "image" : "/assets/p.seadra.png",
+  "base_experience" : 154,
+  "name" : "seadra",
+  "abilities" : [
+    "Poison-Point",
+    "Sniper",
+    "Damp"
+  ]
+}

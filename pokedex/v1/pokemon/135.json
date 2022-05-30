@@ -1,0 +1,14 @@
+{
+  "weight" : 245,
+  "id" : 135,
+  "types" : [
+    "electric"
+  ],
+  "image" : "/assets/p.jolteon.png",
+  "base_experience" : 184,
+  "name" : "jolteon",
+  "abilities" : [
+    "Volt-Absorb",
+    "Quick-Feet"
+  ]
+}

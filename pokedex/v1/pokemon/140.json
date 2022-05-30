@@ -1,0 +1,16 @@
+{
+  "weight" : 115,
+  "id" : 140,
+  "types" : [
+    "rock",
+    "water"
+  ],
+  "image" : "/assets/p.kabuto.png",
+  "base_experience" : 71,
+  "name" : "kabuto",
+  "abilities" : [
+    "Swift-Swim",
+    "Battle-Armor",
+    "Weak-Armor"
+  ]
+}

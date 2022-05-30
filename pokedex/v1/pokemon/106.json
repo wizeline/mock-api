@@ -1,0 +1,15 @@
+{
+  "weight" : 498,
+  "id" : 106,
+  "types" : [
+    "fighting"
+  ],
+  "image" : "/assets/p.hitmonlee.png",
+  "base_experience" : 159,
+  "name" : "hitmonlee",
+  "abilities" : [
+    "Limber",
+    "Reckless",
+    "Unburden"
+  ]
+}

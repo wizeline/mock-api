@@ -1,9 +1,9 @@
 {
   "weight" : "integer",
-  "id" : "string",
+  "id" : "integer",
   "types" : "array",
-  "baseExperience" : "integer",
   "image" : "string",
+  "base_experience" : "integer",
   "name" : "string",
   "abilities" : "array"
 }

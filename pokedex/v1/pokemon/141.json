@@ -1,0 +1,16 @@
+{
+  "weight" : 405,
+  "id" : 141,
+  "types" : [
+    "rock",
+    "water"
+  ],
+  "image" : "/assets/p.kabutops.png",
+  "base_experience" : 173,
+  "name" : "kabutops",
+  "abilities" : [
+    "Swift-Swim",
+    "Battle-Armor",
+    "Weak-Armor"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "weight" : 200,
+  "id" : 74,
+  "types" : [
+    "rock",
+    "ground"
+  ],
+  "image" : "/assets/p.geodude.png",
+  "base_experience" : 60,
+  "name" : "geodude",
+  "abilities" : [
+    "Rock-Head",
+    "Sturdy",
+    "Sand-Veil"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "weight" : 620,
+  "id" : 34,
+  "types" : [
+    "poison",
+    "ground"
+  ],
+  "image" : "/assets/p.nidoking.png",
+  "base_experience" : 253,
+  "name" : "nidoking",
+  "abilities" : [
+    "Poison-Point",
+    "Rivalry",
+    "Sheer-Force"
+  ]
+}

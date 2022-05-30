@@ -1,0 +1,15 @@
+{
+  "weight" : 502,
+  "id" : 107,
+  "types" : [
+    "fighting"
+  ],
+  "image" : "/assets/p.hitmonchan.png",
+  "base_experience" : 159,
+  "name" : "hitmonchan",
+  "abilities" : [
+    "Keen-Eye",
+    "Iron-Fist",
+    "Inner-Focus"
+  ]
+}

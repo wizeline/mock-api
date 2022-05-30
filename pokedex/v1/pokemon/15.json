@@ -1,0 +1,15 @@
+{
+  "weight" : 295,
+  "id" : 15,
+  "types" : [
+    "bug",
+    "poison"
+  ],
+  "image" : "/assets/p.beedrill.png",
+  "base_experience" : 178,
+  "name" : "beedrill",
+  "abilities" : [
+    "Swarm",
+    "Sniper"
+  ]
+}

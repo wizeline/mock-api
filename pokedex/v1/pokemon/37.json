@@ -1,0 +1,14 @@
+{
+  "weight" : 99,
+  "id" : 37,
+  "types" : [
+    "fire"
+  ],
+  "image" : "/assets/p.vulpix.png",
+  "base_experience" : 60,
+  "name" : "vulpix",
+  "abilities" : [
+    "Flash-Fire",
+    "Drought"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "weight" : 855,
+  "id" : 9,
+  "types" : [
+    "water"
+  ],
+  "image" : "/assets/p.blastoise.png",
+  "base_experience" : 265,
+  "name" : "blastoise",
+  "abilities" : [
+    "Torrent",
+    "Rain-Dish"
+  ]
+}

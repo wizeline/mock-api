@@ -1,0 +1,15 @@
+{
+  "weight" : 400,
+  "id" : 36,
+  "types" : [
+    "fairy"
+  ],
+  "image" : "/assets/p.clefable.png",
+  "base_experience" : 242,
+  "name" : "clefable",
+  "abilities" : [
+    "Cute-Charm",
+    "Magic-Guard",
+    "Unaware"
+  ]
+}

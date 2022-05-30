@@ -1,0 +1,15 @@
+{
+  "weight" : 90,
+  "id" : 32,
+  "types" : [
+    "poison"
+  ],
+  "image" : "/assets/p.nidoran-m.png",
+  "base_experience" : 55,
+  "name" : "nidoran-m",
+  "abilities" : [
+    "Poison-Point",
+    "Rivalry",
+    "Hustle"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "weight" : 1325,
+  "id" : 91,
+  "types" : [
+    "water",
+    "ice"
+  ],
+  "image" : "/assets/p.cloyster.png",
+  "base_experience" : 184,
+  "name" : "cloyster",
+  "abilities" : [
+    "Shell-Armor",
+    "Skill-Link",
+    "Overcoat"
+  ]
+}

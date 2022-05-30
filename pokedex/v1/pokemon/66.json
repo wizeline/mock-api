@@ -1,0 +1,15 @@
+{
+  "weight" : 195,
+  "id" : 66,
+  "types" : [
+    "fighting"
+  ],
+  "image" : "/assets/p.machop.png",
+  "base_experience" : 61,
+  "name" : "machop",
+  "abilities" : [
+    "Guts",
+    "No-Guard",
+    "Steadfast"
+  ]
+}

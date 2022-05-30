@@ -1,0 +1,14 @@
+{
+  "weight" : 300,
+  "id" : 125,
+  "types" : [
+    "electric"
+  ],
+  "image" : "/assets/p.electabuzz.png",
+  "base_experience" : 172,
+  "name" : "electabuzz",
+  "abilities" : [
+    "Static",
+    "Vital-Spirit"
+  ]
+}

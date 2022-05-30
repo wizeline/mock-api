@@ -1,0 +1,16 @@
+{
+  "weight" : 392,
+  "id" : 84,
+  "types" : [
+    "normal",
+    "flying"
+  ],
+  "image" : "/assets/p.doduo.png",
+  "base_experience" : 62,
+  "name" : "doduo",
+  "abilities" : [
+    "Run-Away",
+    "Early-Bird",
+    "Tangled-Feet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "weight" : 455,
+  "id" : 72,
+  "types" : [
+    "water",
+    "poison"
+  ],
+  "image" : "/assets/p.tentacool.png",
+  "base_experience" : 67,
+  "name" : "tentacool",
+  "abilities" : [
+    "Clear-Body",
+    "Liquid-Ooze",
+    "Rain-Dish"
+  ]
+}

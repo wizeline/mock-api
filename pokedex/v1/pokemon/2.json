@@ -1,0 +1,15 @@
+{
+  "weight" : 130,
+  "id" : 2,
+  "types" : [
+    "grass",
+    "poison"
+  ],
+  "image" : "/assets/p.ivysaur.png",
+  "base_experience" : 142,
+  "name" : "ivysaur",
+  "abilities" : [
+    "Overgrow",
+    "Chlorophyll"
+  ]
+}

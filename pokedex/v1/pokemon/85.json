@@ -1,0 +1,16 @@
+{
+  "weight" : 852,
+  "id" : 85,
+  "types" : [
+    "normal",
+    "flying"
+  ],
+  "image" : "/assets/p.dodrio.png",
+  "base_experience" : 165,
+  "name" : "dodrio",
+  "abilities" : [
+    "Run-Away",
+    "Early-Bird",
+    "Tangled-Feet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "weight" : 550,
+  "id" : 73,
+  "types" : [
+    "water",
+    "poison"
+  ],
+  "image" : "/assets/p.tentacruel.png",
+  "base_experience" : 180,
+  "name" : "tentacruel",
+  "abilities" : [
+    "Clear-Body",
+    "Liquid-Ooze",
+    "Rain-Dish"
+  ]
+}

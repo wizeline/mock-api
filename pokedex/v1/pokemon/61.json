@@ -1,0 +1,15 @@
+{
+  "weight" : 200,
+  "id" : 61,
+  "types" : [
+    "water"
+  ],
+  "image" : "/assets/p.poliwhirl.png",
+  "base_experience" : 135,
+  "name" : "poliwhirl",
+  "abilities" : [
+    "Water-Absorb",
+    "Damp",
+    "Swift-Swim"
+  ]
+}

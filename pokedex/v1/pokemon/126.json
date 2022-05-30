@@ -1,0 +1,14 @@
+{
+  "weight" : 445,
+  "id" : 126,
+  "types" : [
+    "fire"
+  ],
+  "image" : "/assets/p.magmar.png",
+  "base_experience" : 173,
+  "name" : "magmar",
+  "abilities" : [
+    "Flame-Body",
+    "Vital-Spirit"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "weight" : 1200,
+  "id" : 103,
+  "types" : [
+    "grass",
+    "psychic"
+  ],
+  "image" : "/assets/p.exeggutor.png",
+  "base_experience" : 186,
+  "name" : "exeggutor",
+  "abilities" : [
+    "Chlorophyll",
+    "Harvest"
+  ]
+}

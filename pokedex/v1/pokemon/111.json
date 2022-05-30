@@ -1,0 +1,16 @@
+{
+  "weight" : 1150,
+  "id" : 111,
+  "types" : [
+    "ground",
+    "rock"
+  ],
+  "image" : "/assets/p.rhyhorn.png",
+  "base_experience" : 69,
+  "name" : "rhyhorn",
+  "abilities" : [
+    "Lightning-Rod",
+    "Rock-Head",
+    "Reckless"
+  ]
+}

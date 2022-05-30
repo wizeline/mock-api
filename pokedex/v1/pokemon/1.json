@@ -1,0 +1,15 @@
+{
+  "weight" : 69,
+  "id" : 1,
+  "types" : [
+    "grass",
+    "poison"
+  ],
+  "image" : "/assets/p.bulbasaur.png",
+  "base_experience" : 64,
+  "name" : "bulbasaur",
+  "abilities" : [
+    "Overgrow",
+    "Chlorophyll"
+  ]
+}

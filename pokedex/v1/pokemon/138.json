@@ -1,0 +1,16 @@
+{
+  "weight" : 75,
+  "id" : 138,
+  "types" : [
+    "rock",
+    "water"
+  ],
+  "image" : "/assets/p.omanyte.png",
+  "base_experience" : 71,
+  "name" : "omanyte",
+  "abilities" : [
+    "Swift-Swim",
+    "Shell-Armor",
+    "Weak-Armor"
+  ]
+}

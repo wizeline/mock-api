@@ -1,0 +1,16 @@
+{
+  "weight" : 60,
+  "id" : 81,
+  "types" : [
+    "electric",
+    "steel"
+  ],
+  "image" : "/assets/p.magnemite.png",
+  "base_experience" : 65,
+  "name" : "magnemite",
+  "abilities" : [
+    "Magnet-Pull",
+    "Sturdy",
+    "Analytic"
+  ]
+}

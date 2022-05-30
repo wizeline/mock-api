@@ -1,0 +1,14 @@
+{
+  "weight" : 33,
+  "id" : 147,
+  "types" : [
+    "dragon"
+  ],
+  "image" : "/assets/p.dratini.png",
+  "base_experience" : 60,
+  "name" : "dratini",
+  "abilities" : [
+    "Shed-Skin",
+    "Marvel-Scale"
+  ]
+}

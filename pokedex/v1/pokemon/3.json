@@ -1,0 +1,15 @@
+{
+  "weight" : 1000,
+  "id" : 3,
+  "types" : [
+    "grass",
+    "poison"
+  ],
+  "image" : "/assets/p.venusaur.png",
+  "base_experience" : 263,
+  "name" : "venusaur",
+  "abilities" : [
+    "Overgrow",
+    "Chlorophyll"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "weight" : 290,
+  "id" : 134,
+  "types" : [
+    "water"
+  ],
+  "image" : "/assets/p.vaporeon.png",
+  "base_experience" : 184,
+  "name" : "vaporeon",
+  "abilities" : [
+    "Water-Absorb",
+    "Hydration"
+  ]
+}

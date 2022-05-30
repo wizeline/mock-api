@@ -1,0 +1,16 @@
+{
+  "weight" : 1200,
+  "id" : 87,
+  "types" : [
+    "water",
+    "ice"
+  ],
+  "image" : "/assets/p.dewgong.png",
+  "base_experience" : 166,
+  "name" : "dewgong",
+  "abilities" : [
+    "Thick-Fat",
+    "Hydration",
+    "Ice-Body"
+  ]
+}

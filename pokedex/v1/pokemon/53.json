@@ -1,0 +1,15 @@
+{
+  "weight" : 320,
+  "id" : 53,
+  "types" : [
+    "normal"
+  ],
+  "image" : "/assets/p.persian.png",
+  "base_experience" : 154,
+  "name" : "persian",
+  "abilities" : [
+    "Limber",
+    "Technician",
+    "Unnerve"
+  ]
+}

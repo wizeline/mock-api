@@ -1,0 +1,15 @@
+{
+  "weight" : 150,
+  "id" : 118,
+  "types" : [
+    "water"
+  ],
+  "image" : "/assets/p.goldeen.png",
+  "base_experience" : 64,
+  "name" : "goldeen",
+  "abilities" : [
+    "Swift-Swim",
+    "Water-Veil",
+    "Lightning-Rod"
+  ]
+}

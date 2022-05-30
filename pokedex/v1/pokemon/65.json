@@ -1,0 +1,15 @@
+{
+  "weight" : 480,
+  "id" : 65,
+  "types" : [
+    "psychic"
+  ],
+  "image" : "/assets/p.alakazam.png",
+  "base_experience" : 250,
+  "name" : "alakazam",
+  "abilities" : [
+    "Synchronize",
+    "Inner-Focus",
+    "Magic-Guard"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "weight" : 395,
+  "id" : 18,
+  "types" : [
+    "normal",
+    "flying"
+  ],
+  "image" : "/assets/p.pidgeot.png",
+  "base_experience" : 216,
+  "name" : "pidgeot",
+  "abilities" : [
+    "Keen-Eye",
+    "Tangled-Feet",
+    "Big-Pecks"
+  ]
+}
